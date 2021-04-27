@@ -7,12 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This app will work as a comprehensive menu that is easy to follow for customers, and allows the restaurant to understand any changes, allergies, or special requests made by the customer. It will allow customers to understand what is and isnt allowed to change and help restaurants more clearly understand what a customer means by requests that can sometimes be subjective EX("Lots of sauce on the side").
 ### Features
-Include Features here
+
+User Cart: An online cart that will contain the menu items the user has decided to order with any changes made to the menu item.
+
+Add/Subtract Ingredients: Through the use of buttons the user can add or subtract ingredients from the menu item to create a more customized selection.
+
+Add to Cart: The user can add a menu item of ther specifications to the User Cart through the use of a button.
 ### Technologies
-Include Technologies here
+Javascript/HTML/CSS (Additional technologies may make sense for use in the future)
 ### What I'll Have to Learn
-Include what you will need to learn here
+Will need to 
 ### Project Tracker
 Link to your Trello board here
+
+fdsaf
